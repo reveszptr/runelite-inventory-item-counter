@@ -1,0 +1,1 @@
+# runelite-inventory-item-counter
